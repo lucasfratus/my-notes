@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ab25f787d72f8a48",
+        "id": "170af8f475676b8c",
         "type": "tabs",
         "children": [
           {
-            "id": "77c203b664b13694",
+            "id": "a22e6287c723eb18",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65f45f872a0fe1f7",
+  "active": "a22e6287c723eb18",
   "lastOpenFiles": [
     "Arquitetura de Computadores I/Lista de Exercicios/Lista 1.md",
     "Arquitetura de Computadores I/Untitled.md",
