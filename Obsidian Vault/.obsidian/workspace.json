@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76ba0793ee66df13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lista 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquitetura de Computadores I/Lista de Exercicios/Lista 1.md",
+                "file": "Lista 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquitetura de Computadores I/Lista de Exercicios/Lista 1.md",
+                "file": "Lista 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquitetura de Computadores I/Lista de Exercicios/Lista 1.md"
+                "file": "Lista 2.md"
               }
             }
           }
@@ -146,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a22e6287c723eb18",
+  "active": "76ba0793ee66df13",
   "lastOpenFiles": [
     "Arquitetura de Computadores I/Lista de Exercicios/Lista 1.md",
+    "Lista 2.md",
     "Arquitetura de Computadores I/Untitled.md",
     "Arquitetura de Computadores I/Lista de Exercicios",
     "Arquitetura de Computadores I"
